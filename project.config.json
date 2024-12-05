@@ -1,0 +1,45 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "TaroP",
+  "description": "taro",
+  "appid": "wx6b4b550522a1c797",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "swc": true,
+    "ignoreUploadUnusedFiles": true,
+    "newFeature": true,
+    "autoAudits": false,
+    "coverView": true,
+    "showShadowRootInWxmlPanel": false,
+    "scopeDataCheck": false,
+    "useCompilerModule": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "packNpmRelationList": []
+  },
+  "compileType": "miniprogram",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {},
+  "libVersion": "3.6.3",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
